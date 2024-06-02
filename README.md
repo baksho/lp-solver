@@ -1,5 +1,5 @@
 # lp-solver
-This is a python implementation of the simplex algorithm using linear solver.
+This is a python implementation of the simplex algorithm for solving LPP.
 
 This repository contains the below file:
 1. Simplex Method.pdf --> Step-wise instruction handbook for solving a linear programming problem using simplex method.
