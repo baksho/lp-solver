@@ -1,4 +1,4 @@
-# lp-solver
+# lpp-simplex-solver
 This is a python implementation of the simplex algorithm for solving LPP.
 
 This repository contains the below file:
