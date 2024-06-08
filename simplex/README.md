@@ -4,7 +4,7 @@ This is a python implementation of the simplex algorithm for solving LPP.
 This repository contains the below file:
 1. Simplex Method.pdf --> Step-wise instruction handbook for solving a linear programming problem using simplex method.
 2. simplex_method_theo.ipynb --> Further theory and the general form of a linear programming problem.
-3. simplex.ipynb --> Actual code implementation of simplex algorithm. This code uses the solves the below linear programming problem:
+3. simplex.ipynb --> Actual code implementation of simplex algorithm. This code uses the below linear programming problem to solve using simplex algorithm:
 
 $\text{maximize}$ $$3x_1 + x_2 + 2x_3$$
 
